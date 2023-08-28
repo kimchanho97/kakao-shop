@@ -9,7 +9,7 @@
 [카카오톡 쇼핑하기](https://store.kakao.com/) 클론코딩 프로젝트
 
 + 개발 기간: 2023.06.26 ~ 2023.08.04
-+ 개발 인원: 프론트엔드 본인 1명
++ 개발 인원: 프론트엔드 1명(김찬호)
 + 개발 목적: 리액트 학습 및 다양한 라이브러리 적용
 
 </br>
@@ -41,7 +41,8 @@
 ## 배포환경
 
 + 배포 도구: 카카오 크램폴린 ide
-+ 배포 URL: <https://user-app.krampoline.com/k63920d7dcea9a/>
++ 배포 URL: <https://user-app.krampoline.com/k63920d7dcea9a/> (23.08.18까지 유효)
++ [로컬 저장소](https://github.com/kimchanho97/step2-FE-kakao-shop)
 
 </br>
 
@@ -59,7 +60,6 @@
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 
-</br>
 </br>
 
 ### 기능 구현
